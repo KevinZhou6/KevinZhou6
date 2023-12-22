@@ -26,7 +26,6 @@
 
 - 🔭 I’m currently studing in Southeast University
 - 🌱 I’m currently learning Virtual Reality(VR)
-- 📖 I sometimes will share labworks in SEU.
 - ⭐ Give me a star if you like my repository!
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
   
