@@ -10,6 +10,7 @@
     <img src="https://github.com/KevinZhou6/KevinZhou6/blob/main/src/Bg.png" />
   </picture>
 
+
 </div>
 
   <div>&nbsp;</div>
@@ -39,6 +40,10 @@
 ### 🌞 My Most used languages
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinZhou6&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
+</td></tr>
+<tr><td>
+<!-- Quotes 名人名言 -->
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 </td></tr>
 
 </table>
