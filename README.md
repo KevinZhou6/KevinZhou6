@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently studying in Southeast University
-- 🌱 I’m currently learning Virtual Reality(VR)
+- 🌱 I'm learning brain-computer interface technology in conjunction with LLM.
 - ⭐ Give me a star if you like my repository!
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
   
