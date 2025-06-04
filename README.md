@@ -23,7 +23,7 @@
 ### 🤺 About Me
 
 
-- 🔭 I’m currently studying in Southeast University
+- 🔭 I’m currently studying in Southeast University. Here is my web page: [Tianyi Zhou](https://kevinzhou6.github.io/)
 - 🌱 I'm learning brain decoding
 - ⭐ Give me a star if you like my repository!
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
