@@ -23,7 +23,7 @@
 ### 🤺 About Me
 
 
-- 🔭 I’m currently a PHD student in Shanghai Jiao Tong University. Here is my web page: [Tianyi Zhou](https://kevinzhou6.github.io/)
+- 🔭 I’m currently a PhD student in Shanghai Jiao Tong University. Here is my web page: [Tianyi Zhou](https://kevinzhou6.github.io/)
 - 🌱 I'm learning Brain Decoding, Brain Large Model.
 - ⭐ Give me a star if you like my repository!
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
