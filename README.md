@@ -38,12 +38,7 @@
 
 <tr><td>
   
-### ⭐ Submission
 
-  <div align="center">
-<img width="340px"  src="https://github-readme-stats.vercel.app/api?username=KevinZhou6&theme=vue-dark&count_private=true&show_icons=true">
- </div>
- </td></tr> 
 </table>
 
 
