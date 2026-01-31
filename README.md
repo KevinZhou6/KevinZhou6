@@ -24,7 +24,7 @@
 - ⭐ Give me a star if you like my repository!
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
   
-[![GitHub](https://img.shields.io/badge/GitHub-TianyiZhou-brightgreen.svg)](https://github.com/KevinZhou6) [![Mail](https://img.shields.io/badge/Mail-important.svg)](mailto:213212387@seu.edu.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-TianyiZhou-brightgreen.svg)](https://github.com/KevinZhou6) [![Mail](https://img.shields.io/badge/Mail-important.svg)](mailto:ty_zhou@sjtu.edu.cn)
 <img src="https://komarev.com/ghpvc/?username=KevinZhou6&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 </td></tr>
